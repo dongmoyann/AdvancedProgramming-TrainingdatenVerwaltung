@@ -19,7 +19,7 @@ from enum import Enum
 
 imgcount = 0
 
-basepath = r"C:\Users\rembo\Documents\Research\Fit4Research\QFISH\bio"
+basepath = r"C:\Users\Admin\Documents\Master\Sommer\WPM-Advanced Programing\bio"
 
 chrdestpath = join(basepath, r'chromosomes\test')
 chrdestfilename = "chr_{0:0=5d}.png".format(imgcount);
