@@ -1,0 +1,8 @@
+imutils==0.5.4
+numpy==1.18.5
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
+opencv-python==4.5.1.48
+pandas @ file:///C:/ci/pandas_1592833613419/work
+path==13.1.0
+pathlib2==2.3.5
+pathtools==0.1.2
